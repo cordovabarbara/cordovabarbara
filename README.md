@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Bárbara  
 
 💻 **QA Automation Junior | Python | Selenium | Pytest**  
-🚀 Passionate about software testing, automation, and continuous learning.  
+🚀 Passionate about software testing, automation, and continuous learning.
+
+📩 Contact me aliendocordova@gmail.com
 
 ---
 
@@ -20,7 +22,8 @@
 
 ---
 
-## 📫 Contact
-- ✉️ Email: **aliendocordova@gmail.com**
-- 💼 LinkedIn: [Mi Perfil](www.linkedin.com/in/aliendo-barbara)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cordovabarbara&layout=compact&theme=tokyonight&card_width=400) 
+
+![GitHub Streak](https://streak-stats.demolab.com?user=cordovabarbara&theme=tokyonight&card_width=400)
+
 
