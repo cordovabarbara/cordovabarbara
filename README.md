@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Bárbara  
 
-<!--
-**cordovabarbara/cordovabarbara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **QA Automation Junior | Python | Selenium | Pytest**  
+🚀 Passionate about software testing, automation, and continuous learning.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- Python, Selenium, Pytest  
+- Git & GitHub  
+- SQL (basic)  
+- API Testing (Postman, requests)  
+
+---
+
+## 📂 Projects
+- 🛒 [E-commerce automation with Selenium](https://github.com/tu-usuario/selenium-ecommerce-tests)  
+- 🌐 [API Testing with Pytest](https://github.com/tu-usuario/api-testing-pytest)  
+- 📊 [Data-driven testing with Excel](https://github.com/tu-usuario/data-driven-tests)  
+
+---
+
+## 📫 Contact
+- ✉️ Email: **tuemail@example.com**  
+- 💼 LinkedIn: [TuPerfil](https://www.linkedin.com/in/tu-usuario)  
+
