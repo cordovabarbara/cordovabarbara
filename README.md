@@ -21,6 +21,6 @@
 ---
 
 ## 📫 Contact
-- ✉️ Email: **tuemail@example.com**  
-- 💼 LinkedIn: [TuPerfil](https://www.linkedin.com/in/tu-usuario)  
+- ✉️ Email: **aliendocordova@gmail.com**
+- 💼 LinkedIn: [TuPerfil](www.linkedin.com/in/aliendo-barbara)  
 
