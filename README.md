@@ -22,5 +22,5 @@
 
 ## 📫 Contact
 - ✉️ Email: **aliendocordova@gmail.com**
-- 💼 LinkedIn: [TuPerfil](www.linkedin.com/in/aliendo-barbara)  
+- 💼 LinkedIn: [Mi Perfil](www.linkedin.com/in/aliendo-barbara)  
 
