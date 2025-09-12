@@ -33,6 +33,7 @@
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cordovabarbara&layout=compact&theme=tokyonight&card_width=400) 
-
-![GitHub Streak](https://streak-stats.demolab.com?user=cordovabarbara&theme=tokyonight&card_width=400)
+<div align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cordovabarbara&layout=compact&theme=tokyonight&card_width=400" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=cordovabarbara&theme=tokyonight&card_width=400" />
+</div>
