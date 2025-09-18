@@ -35,6 +35,7 @@
 ## 📊 GitHub Stats
 
 <div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cordovabarbara&layout=compact&theme=tokyonight&card_width=400" />
-  <img height="180em" src="https://streak-stats.demolab.com?user=cordovabarbara&theme=tokyonight&card_width=400" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cordovabarbara&layout=compact&langs_count=6&theme=radical" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=cordovabarbara&theme=tokyonight&card_width=400" />
 </div>
+
